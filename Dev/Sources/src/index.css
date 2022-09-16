@@ -1,0 +1,17 @@
+.tab {
+  width: 100%;
+}
+
+
+.prod {
+  width: 50%;
+  background-color: white;
+  border-radius: 20px;
+
+}
+
+.cons {
+  width: 50%;
+  background-color: white;
+  border-radius: 20px;
+}

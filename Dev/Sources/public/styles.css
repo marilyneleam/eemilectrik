@@ -1,0 +1,26 @@
+.up {
+	background-color: white;
+}
+
+.title {
+	float: left;
+}
+
+.selection {
+	float: right;
+	padding-right: 150px;
+	padding-top: 30px;
+}
+
+select {
+	font: size 100px; ;
+}
+
+
+.logo {
+	width: 10%;
+}
+
+body {
+	background-color: rgb(242,242,242);
+}
